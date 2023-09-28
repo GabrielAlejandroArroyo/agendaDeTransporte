@@ -17,7 +17,7 @@ public class AppConfig
 	public PropertiesValue propertiesValue2()
 	{
 		return new PropertiesValue();
-	}*/
+	}xxxxx*/
 
 	@Bean
 	public static PropertySourcesPlaceholderConfigurer propertySourcesPlaceholderConfigurer()
